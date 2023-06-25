@@ -1,4 +1,4 @@
-## QueriBot»
+## QueriBot
 <a href="https://codeclimate.com/github/THEBESTol0ch/QueriBot/maintainability"><img src="https://api.codeclimate.com/v1/badges/cf7979cbcffa44012ec5/maintainability" /></a>
 
 ## Description:
