@@ -3,7 +3,8 @@
 
 ## Description:
 ```
-Discord bot for an IT college project. Is a nice addition to the discord server, it is able to answer the user's questions.
+Discord bot for an IT college project.
+It is a nice addition to the discord server, it is able to answer the user's questions.
 ```
 
 ![Bot Logo](https://media.discordapp.net/attachments/1117444086077595752/1122509779210870854/1.png?width=468&height=468)
