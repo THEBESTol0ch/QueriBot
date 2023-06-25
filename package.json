@@ -1,0 +1,23 @@
+{
+  "name": "queribot",
+  "version": "1.0.0",
+  "description": "<a href=\"https://codeclimate.com/github/THEBESTol0ch/QueriBot/maintainability\"><img src=\"https://api.codeclimate.com/v1/badges/cf7979cbcffa44012ec5/maintainability\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THEBESTol0ch/QueriBot.git"
+  },
+  "author": "THE_BESTol0ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THEBESTol0ch/QueriBot/issues"
+  },
+  "homepage": "https://github.com/THEBESTol0ch/QueriBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
