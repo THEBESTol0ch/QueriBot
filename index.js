@@ -21,7 +21,7 @@ client.on("messageCreate", (message) => {
         return;
     }
 
-    message.reply(message.content);
+    //message.reply(message.content);
 });
 
 client.on("interactionCreate", (interaction) => {
